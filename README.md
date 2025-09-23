@@ -1,44 +1,21 @@
-````markdown
-# ABHIJITH P
+# Abhijith P
 
-I build web applications using the MERN stack and solve algorithm and data problems with Python for DSA and data science. I aim for clear code, practical design and reproducible workflows.
+I am a MERN stack developer and Python practitioner, focused on building scalable web applications and solving algorithmic and data-driven challenges. I prioritize clean, maintainable code, practical design patterns, and reproducible workflows.
 
 ## Contact
-Email: abhijith26p@gmail.com  
-LinkedIn: https://www.linkedin.com/in/abhijith%2Dp11  
-GitHub: https://github.com/AbhijithX001
 
-## Snapshot
-MERN stack developer and Python practitioner focused on building reliable web applications and solving data and algorithm challenges.
+* **Email:** [abhijith26p@gmail.com](mailto:abhijith26p@gmail.com)
+* **LinkedIn:** [linkedin.com/in/abhijith-p11](https://www.linkedin.com/in/abhijith%2Dp11)
+* **GitHub:** [github.com/AbhijithX001](https://github.com/AbhijithX001)
 
-## What I do
-1. Build responsive user interfaces with React using modern patterns and component driven design
-2. Create REST APIs and backend services with Node.js and Express
-3. Design data models and queries with MongoDB for practical applications
-4. Solve algorithm problems and develop data analysis workflows with Python
+## Profile
 
-## Quick start example
-```bash
-git clone https://github.com/AbhijithX001/<repoName>.git
-cd <repoName>
+Skilled in full-stack development and Python programming, with a strong focus on building reliable applications and developing data solutions. Experienced in designing efficient architectures and solving complex algorithmic problems.
 
-cd client
-npm install
-npm run dev
+## Skills & Expertise
 
-cd ../server
-npm install
-npm run start
-````
-
-## Learning focus right now
-
-1. Advanced React patterns and performance approaches
-2. Scalable Node architectures and basic observability
-3. Applied machine learning workflows and model deployment
-
-## Reach out
-
-For collaboration, internship or project discussions send an email to [abhijith26p@gmail.com](mailto:abhijith26p@gmail.com)
-
+* **Front-end:** React, responsive UI, component-driven design
+* **Back-end:** Node.js, Express, REST API development
+* **Database:** MongoDB, data modeling, query optimization
+* **Python:** Algorithm problem solving, data analysis, workflow automation
 
