@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhijith P</h1>
 <h3 align="center">A fullstack Web Developer from India</h3>
 
-- I’m currently learning **MERN Stack and Django **
+- I’m currently learning MERN Stack and Django 
 
 - All of my projects are available at [https://abhijithp.vercel.app/](https://abhijithp.vercel.app/)
 
