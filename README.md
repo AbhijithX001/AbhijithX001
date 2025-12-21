@@ -21,7 +21,7 @@ I'm a final year Computer Science student who builds full stack web applications
 
 ```javascript
 const abhijith = {
-    location: "Coimbatore, India",
+    location: "Kerala, India",
     education: "B.E Computer Science | CGPA: 8.46/10",
     currentFocus: "Building scalable web applications",
     techStack: {
@@ -59,9 +59,10 @@ const abhijith = {
 
 ## Projects
 
-<details open>
-<summary><b>Tweetly: Full Stack Microblogging Platform</b></summary>
-<br/>
+### Tweetly: Full Stack Microblogging Platform
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/Tweetly)
+[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://tweetly-production.up.railway.app/tweets/)
 
 • Built a social media app where users post tweets with images, like posts, and add nested comments with unlimited reply depth
 
@@ -73,11 +74,12 @@ const abhijith = {
 
 **Tech Stack:** `Django` `PostgreSQL` `Cloudinary` `Gunicorn` `Railway`
 
-</details>
+---
 
-<details>
-<summary><b>SchoolTransit Management System</b></summary>
-<br/>
+### SchoolTransit Management System
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/SchoolTransit)
+[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://web-production-bf4b.up.railway.app/)
 
 • Developed to digitize fee management for a school bus service with 200+ students across 4 routes
 
@@ -89,11 +91,12 @@ const abhijith = {
 
 **Tech Stack:** `Django` `SQLite` `TailwindCSS`
 
-</details>
+---
 
-<details>
-<summary><b>Spotify Clone: Web Player Interface</b></summary>
-<br/>
+### Spotify Clone: Web Player Interface
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/Spotify-Clone)
+[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=githubpages)](https://abhijithx001.github.io/Spotify-Clone/)
 
 • Built a responsive clone of Spotify's web player interface using HTML and CSS with pixel perfect design
 
@@ -105,14 +108,11 @@ const abhijith = {
 
 **Tech Stack:** `HTML` `CSS` `GitHub Pages`
 
-</details>
-
 ---
 
 ### Languages and Tools
 
 <!-- Programming Languages -->
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
