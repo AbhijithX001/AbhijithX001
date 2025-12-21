@@ -78,7 +78,7 @@ const abhijith = {
 
 ### SchoolTransit Management System
 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/SchoolTransit)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/bus_fee_portal)
 [![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://web-production-bf4b.up.railway.app/)
 
 • Developed to digitize fee management for a school bus service with 200+ students across 4 routes
