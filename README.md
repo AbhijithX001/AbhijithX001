@@ -62,7 +62,7 @@ const abhijith = {
 ### Tweetly: Full Stack Microblogging Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/Tweetly)
-[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://tweetly-production.up.railway.app/tweets/)
+[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://tweetly-adhi.onrender.com)
 
 • Built a social media app where users post tweets with images, like posts, and add nested comments with unlimited reply depth
 
@@ -79,7 +79,7 @@ const abhijith = {
 ### SchoolTransit Management System
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/bus_fee_portal)
-[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://web-production-bf4b.up.railway.app/)
+[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://bus-fee-portal.onrender.com)
 
 • Developed to digitize fee management for a school bus service with 200+ students across 4 routes
 
