@@ -150,8 +150,7 @@ const abhijith = {
 
 ---
 
-| <a href="https://github.com/AbhijithX001/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhijithX001&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Abhijith's github stats" /></a> | <a href="https://github.com/AbhijithX001/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithX001&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithX001&theme=tokyonight" width="auto" height="auto" />
