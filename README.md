@@ -1,14 +1,14 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=092E20&height=120&section=header"/>
 </a>
 
 # Hi there, I'm Abhijith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=3b82f6&width=450&height=45&lines=Full+Stack+Developer;Django+and+MERN+Stack;Building+Scalable+Applications;Open+to+Collaboration"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=092E20&width=450&height=45&lines=Django+Full+Stack+Developer;REST+APIs+%26+Backend+Architecture;Building+Production-Ready+Apps;Open+to+Collaboration"></a>
 
-**`Full Stack Developer | Django & MERN Stack | Computer Science Student`**
+**`Django Full Stack Developer | Python Backend | Computer Science Student`**
 
-I'm a final year Computer Science student who builds full stack web applications using Django and the MERN stack. I've developed multiple production ready projects with a focus on solving real world problems through clean, scalable code.
+I'm a final year Computer Science student with hands-on experience building and deploying 8+ client websites across hospitality, real estate, and e-commerce verticals. I specialize in Django full stack development — from REST APIs and database-driven backends to production deployments on AWS — with a focus on clean architecture and real-world delivery.
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -21,31 +21,31 @@ I'm a final year Computer Science student who builds full stack web applications
 
 ```javascript
 const abhijith = {
-    location: "Kerala, India",
-    education: "B.E Computer Science | CGPA: 8.46/10",
-    currentFocus: "Building scalable web applications",
+    location: "Kochi, Kerala, India",
+    education: "B.E Computer Science (Honours) | 85%",
+    currentFocus: "Django full stack development & REST API architecture",
     techStack: {
-        backend: ["Django", "Node.js", "Express.js"],
-        frontend: ["React", "HTML/CSS", "TailwindCSS"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        tools: ["Git", "Postman", "Railway", "Vercel"]
+        backend: ["Django", "Django REST Framework", "Python", "Gunicorn"],
+        frontend: ["HTML/CSS", "JavaScript", "jQuery", "TailwindCSS", "Bootstrap"],
+        databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
+        deployment: ["AWS EC2", "AWS RDS", "Nginx", "Render", "WhiteNoise", "Cloudinary"],
+        cms: ["WordPress", "Shopify"],
+        tools: ["Git", "Postman", "VS Code", "XAMPP"]
     },
-    lookingFor: "Software Engineering Opportunities",
+    lookingFor: "Backend / Django Full Stack Developer Roles",
     openTo: ["Internships", "Full time roles", "Collaboration"]
 };
 ```
 
 <br/>
 
-• Currently working on building scalable web applications
+- Specializing in Django full stack — models, REST APIs, admin dashboards, booking systems, and AWS deployment
+- Delivered 8+ production client websites across hospitality, real estate, landscaping, and e-commerce
+- Ask me about Django ORM, class-based views, custom admin, DRF, SEO, or production deployment
+- Experienced with WordPress and Shopify for CMS and e-commerce projects
+- Actively seeking Backend or Full Stack Developer roles
 
-• Learning advanced Django patterns and MERN stack optimization
-
-• Ask me about Django, React, Node.js, PostgreSQL, or Full Stack Development
-
-• Open to collaboration on web development projects
-
-• Actively seeking software engineering opportunities and internships
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,32 +62,26 @@ const abhijith = {
 ### Tweetly: Full Stack Microblogging Platform
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/Tweetly)
-[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://tweetly-adhi.onrender.com)
+[![Live](https://img.shields.io/badge/Live-Demo-092E20?style=for-the-badge&logo=render)](https://tweetly-adhi.onrender.com)
 
-• Built a social media app where users post tweets with images, like posts, and add nested comments with unlimited reply depth
+- Built a full stack social media platform using Django — tweets with images, nested comments with unlimited reply depth, and user likes
+- Designed user profiles with bios and profile pictures, enabling multi-user interactions via Django ORM across 3 linked models (Tweet, Profile, Comment)
+- Integrated Cloudinary for cloud image storage; deployed on Render with PostgreSQL and Gunicorn
+- Implemented secure session-based authentication and Django's built-in permission system
 
-• Designed user profiles with bios and profile pictures enabling multi user interactions across the platform
-
-• Used Cloudinary for cloud image storage and Django ORM to create database models with relationships
-
-• Deployed on Railway with PostgreSQL database and Gunicorn server, implementing secure authentication and session management
-
-**Tech Stack:** `Django` `PostgreSQL` `Cloudinary` `Gunicorn` `Railway`
+**Tech Stack:** `Django` `PostgreSQL` `Cloudinary` `Gunicorn` `Render`
 
 ---
 
-### SchoolTransit Management System
+### SchoolTransit: School Bus Fee Management System
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/bus_fee_portal)
-[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=railway)](https://bus-fee-portal.onrender.com)
+[![Live](https://img.shields.io/badge/Live-Demo-092E20?style=for-the-badge&logo=render)](https://bus-fee-portal.onrender.com)
 
-• Developed to digitize fee management for a school bus service with 200+ students across 4 routes
-
-• Automated monthly fee generation for 10 months, eliminating manual entry of 1200+ records annually
-
-• Built dashboards for admin (student management, payment verification) and students (fee history, UPI payment uploads)
-
-• Implemented role based authentication and reduced fee verification time by 70% through automated workflows
+- Replaced manual fee tracking for 150+ students across 4 bus routes with a Django-powered web system
+- Automated monthly fee generation for 10 months, eliminating 1200+ manual entries per year
+- Built role-based dashboards for admins (student management, payment verification) and students (fee history, UPI upload)
+- Reduced fee verification time by 70% through automated Django workflows and role-based login
 
 **Tech Stack:** `Django` `SQLite` `TailwindCSS`
 
@@ -96,61 +90,56 @@ const abhijith = {
 ### Spotify Clone: Web Player Interface
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)](https://github.com/AbhijithX001/Spotify-Clone)
-[![Live](https://img.shields.io/badge/Live-Demo-3b82f6?style=for-the-badge&logo=githubpages)](https://abhijithx001.github.io/Spotify-Clone/)
+[![Live](https://img.shields.io/badge/Live-Demo-092E20?style=for-the-badge&logo=githubpages)](https://abhijithx001.github.io/Spotify-Clone/)
 
-• Built a responsive clone of Spotify's web player interface using HTML and CSS with pixel perfect design
-
-• Designed layout with sidebar navigation, album cards, and bottom player bar replicating Spotify's dark theme
-
-• Implemented interactive UI elements including play controls, progress bar, and volume slider using CSS styling
-
-• Deployed on GitHub Pages for live demonstration
+- Built a pixel-perfect responsive clone of Spotify's web player interface using HTML and CSS
+- Designed sidebar navigation, album cards, and bottom player bar replicating Spotify's dark theme
+- Implemented interactive UI elements including play controls, progress bar, and volume slider
 
 **Tech Stack:** `HTML` `CSS` `GitHub Pages`
 
 ---
 
-### Languages and Tools
+## Languages and Tools
 
-<!-- Programming Languages -->
+<!-- Core -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+
+<!-- Frontend -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- Web & Backend -->
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <!-- Databases -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- Tools & Platforms -->
+<!-- Deployment & DevOps -->
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+<!-- CMS & E-commerce -->
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-%2396BF48.svg?style=for-the-badge&logo=shopify&logoColor=white)
+
+<!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!-- Cloud & Deployment -->
-![Railway](https://img.shields.io/badge/Railway-%23131415.svg?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-<!-- Data Analytics -->
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
 ---
-
-
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithX001&theme=tokyonight" width="auto" height="auto" />
@@ -164,38 +153,33 @@ const abhijith = {
 
 ## What I'm Looking For
 
-• Seeking opportunities as a Full Stack Developer to build scalable, production ready applications
-
-• Passionate about creating solutions that solve real world problems through clean, efficient code
-
-• Continuously learning and exploring new technologies in web development and data analytics
-
-• Eager to collaborate on innovative projects and contribute to open source communities
-
-• Final year Computer Science student with strong academic performance (8.46 CGPA)
+- Seeking Backend or Django Full Stack Developer roles to build scalable, production-ready applications
+- Experienced in the full delivery cycle — client requirements to cloud deployment on AWS
+- Continuously sharpening skills in Django REST Framework, SEO optimization, and cloud infrastructure
+- Open to contributing to backend-heavy products and open source Django projects
+- Final year Computer Science student with Honours — 85%
 
 ---
 
 ## Certifications
 
-• **Programming with JavaScript** | Meta (Coursera), 2025
-
-• **Google Data Analytics Professional Certificate** | Google (Coursera), 2025
-
-• **Affective Computing (Elite + Silver)** | NPTEL, 2025
+- **Programming with JavaScript** | Meta (Coursera), 2025
+- **Google Data Analytics Professional Certificate** | Google (Coursera), 2025
+- **Affective Computing (Elite + Silver)** | NPTEL, 2025
 
 ---
 
 ## Experience
 
-**Data Analyst Trainee** @ MedTourEasy  
-*June 2025 to July 2025*
+**Python Django Intern** @ Vynzora Pvt Ltd *(Onsite, Kochi)*  
+*January 2026 – Present*
 
-• Completed data analytics traineeship, enhancing skills in Python, statistical analysis, and data visualization through team projects
-
-• Analyzed demographic datasets using hypothesis testing and probability methods in a capstone project
-
-• Presented findings to mentors and peers, explaining complex statistical insights clearly
+- Built and deployed 8+ client websites across hospitality, real estate, landscaping, and e-commerce verticals
+- Met with clients to collect requirements, note feedback, and turn their ideas into working web solutions
+- Built REST APIs, admin dashboards, and booking systems using Python and Django
+- Deployed websites on AWS (RDS, EC2) and Render, including server setup and static file configuration
+- Applied on-page SEO across 8+ projects — meta tags, sitemaps, canonical URLs, and GTM integration
+- Built and maintained CMS and e-commerce sites using WordPress and Shopify
 
 ---
 
@@ -206,5 +190,5 @@ const abhijith = {
 </div>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=092E20&height=120&section=footer"/>
 </a>
